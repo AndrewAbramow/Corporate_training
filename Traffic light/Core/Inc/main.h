@@ -62,8 +62,6 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define BUZZ_Pin GPIO_PIN_14
-#define BUZZ_GPIO_Port GPIOC
 #define RED1_Pin GPIO_PIN_12
 #define RED1_GPIO_Port GPIOB
 #define RED2_Pin GPIO_PIN_13
