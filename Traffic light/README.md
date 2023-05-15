@@ -2,6 +2,6 @@
 
 ## Classic traffic light example for Blue Pill
 
-[/Docs/Phase changes of traffic lights.png]
+![Alt text](/Docs/Phase changes of traffic lights.png)
 
 ### Phase changes of traffic lights
